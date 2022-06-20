@@ -1,12 +1,35 @@
-1. Aleksandr Ilin
-2. xgroth50x@gmail.com
+
+# Aleksandr Ilin 
+**xgroth50x@gmail.com**
+
+### Objective
 3. ** Краткая информация о себе ** (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-Objective
-4. Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Skills
-5. Примеры кода
-6. Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Work experience
-7. Образование (включая пройденные курсы и тренинги)
-Education and qualifications
-8.  English language level - Pre-Intermediate
+I'm ABAP software developer
+
+### Skills
+Java
+Apache Maven
+Git
+SQL
+Intellij IDEA
+MySQL
+JSP
+JPA
+JUnit
+Java Servlets
+Hibernate ORM
+JSTL
+
+### Code examples
+https://github.com/groth50
+
+### Work experience
+ABAP software developer
+
+### Education and qualifications
+**Almetyevsk State Oil Institute**
+*Almetyevsk, Russia*
+Graduation: 2012
+**Relevant Coursework:** CS50, Relational Database & SQL, Java web service development, Design patterns
+
+### English language level - Pre-Intermediate
