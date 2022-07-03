@@ -8,6 +8,11 @@ html {
 
 body {
   font-family: "Trispace", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #4d2323;
+
   min-height: 100vh;
   margin: 0;
   padding: 0;
@@ -16,7 +21,15 @@ body {
   justify-content: space-between;
 }
 
-.header {
+.section-title {
+  font-size: 20px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #829985;
+}
+
+.se .header {
   border: 1px solid red;
 }
 .main {
@@ -50,4 +63,52 @@ body {
   color: #0000ff;
 }
 
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
 
+.section {
+  width: 50%;
+}
+
+.head-section {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
+.link {
+  text-decoration: none;
+  color: #829985;
+  transition: color 0.5s;
+}
+
+.link:hover {
+  color: #5d7260;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+}
+
+.section-item {
+  position: relative;
+  padding-left: 30px;
+}
+
+.section-item::before {
+  content: "";
+  position: absolute;
+  top: 8px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  border: 1px solid #829985;
+  border-radius: 50%;
+}
